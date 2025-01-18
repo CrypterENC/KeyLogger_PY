@@ -64,8 +64,3 @@ def start():
 
 def show_path_to_log():
     print("Path to log file: ", file_path + extend + keys_infor)
-
-def set_log_file_path(path):
-    global file_path
-    file_path = path
-    print("Log file path set to: ", file_path)
