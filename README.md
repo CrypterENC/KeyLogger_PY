@@ -1,9 +1,11 @@
-# KeyLogger_PY
+Advanced Keylogger
+===================
 
-### A simple KeyLogger program written in pytrhon which stores all the values(keys) in the log_file.
+This is an advanced keylogger implemented in Python that captures keystrokes, logs them to a file, and send those logfile through email.
 
-## How to run it : 
-` 1. clone the repo`
-
-` 2. open KL_BASIC.py set the path to your needs`
-
+Features
+--------
+- Captures keystrokes from the keyboard.
+- Logs the captured keystrokes to a file.
+- Can be used to monitor user activity on a computer.
+- Stores the keylog file in a specified location.
