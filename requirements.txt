@@ -1,0 +1,8 @@
+cryptography==44.0.0
+keyboard==0.13.5
+Pillow==11.1.0
+pynput==1.7.7
+pywin32==308
+Requests==2.32.3
+scipy==1.15.1
+sounddevice==0.5.1
